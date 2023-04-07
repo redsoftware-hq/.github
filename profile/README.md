@@ -32,7 +32,7 @@ Our team has deep knowledge in building decentralized applications (dApps) and s
 If you're looking for a skilled team to bring your ideas to life or want to collaborate on a project, feel free to reach out to us:
 
 - [**Website**](https://redsoftsolutions.com)
-- [**Email**](mailto:sanket@redsoftware.com)
+- [**Email**](mailto:sanket@redsoftware.in)
 - [**LinkedIn**](https://www.linkedin.com/in/3sanket3)
 - [**Twitter**](https://twitter.com/3sanket3)
 
